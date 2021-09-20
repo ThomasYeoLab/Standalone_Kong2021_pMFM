@@ -12,13 +12,13 @@ Except for this project, if you want to use the code for other stable projects f
 
 To download the version of the code that was last tested, you can either
 
-* visit this link: https://github.com/ThomasYeoLab/CBIG/releases/tag/v0.19.0-Release_Kong2021_pMFM
+* visit this link: https://github.com/ThomasYeoLab/CBIG/releases/tag/v0.19.1-Update_Kong2021_pMFM
 
 or
 
 * run the following command, if you have Git installed
 
-`git checkout -b Kong2021_pMFM v.0.19.0-Release_Kong2021_pMFM`
+`git checkout -b Kong2021_pMFM v.0.21.1-Update_Kong2021_pMFM`
 
 # USAGE
 ## Setup
@@ -51,7 +51,9 @@ or
 
 
 # UPDATES
-Release v0.19.0 (9/3/2021): Initial release of Kong2021_pMFM
+Release v0.19.0 (9/3/2021): Initial release of Kong2021_pMFM </br>
+Release v0.19.1 (14/3/2021): Release replication of Kong2021_pMFM </br>
+Release v0.21.1 (16/9/2021): Release code for revision
 
 # BUGS and QUESTIONS
 Please contact Kong Xiaolu at kxl920327@gmail.com and Thomas Yeo at yeoyeo02@gmail.com.

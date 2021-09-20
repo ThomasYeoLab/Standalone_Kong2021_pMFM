@@ -20,6 +20,9 @@ We strongly encourage you to join the CBIG users group (https://groups.google.co
 
 If you have issues, please email Ruby (roo.cone@gmail.com) and Thomas (yeoyeo02@gmail.com), but we may or may not be able to help you because we are a small lab with limited resources.
 
+## Code of Parametric MFM Project ##
+You can find the code of parametric MFM project at `stable_projects/fMRI_dynamics/Kong2021_pMFM/`.
+
 ## License ##
 See our [LICENSE](https://github.com/ThomasYeoLab/CBIG/blob/master/LICENSE.md) file for license rights and limitations (MIT).
 
